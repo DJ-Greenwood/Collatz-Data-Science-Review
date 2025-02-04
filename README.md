@@ -69,6 +69,7 @@ pip install -r requirements.txt
 ```
 
 ### Running the Analysis
+This creates files for 10000 numbers each, if you run it as it is configured it will create 6+GB of data.
 ```sh
 python collatz_analysis.py
 ```
